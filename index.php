@@ -24,6 +24,9 @@
     <!-- start konten -->
     <center><br><br>
         <h1>Salon XXX sudah masuk ke repo</h1>
+        ini saya tambahin lagi deh
+        <h1>ini adalah tambahannya</h1>
+        beneran
         <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, perferendis.</h2>
     </center>
     <div class=m1-slider>
